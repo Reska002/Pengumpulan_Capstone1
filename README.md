@@ -4,7 +4,7 @@ Program manajemen transaksi keuangan berbasis Python yang memungkinkan pengguna 
 Fitur utama dalam program ini meliputi:
 - Menampilkan transaksi berdasarkan semua data, ID transaksi, atau tanggal tertentu.
 - Menambahkan transaksi baru dengan validasi format input.
-- Mengubah transaksi, termasuk perubahan pada tanggal, jumlah, atau informasi lain.
+- Mengubah transaksi termasuk perubahan pada tanggal, jumlah, atau informasi lain.
 - Menghapus transaksi dengan konfirmasi pengguna sebelum eksekusi.
 - Antarmuka berbasis menu utama, yang memandu pengguna melalui berbagai fungsi dalam sistem manajemen transaksi.
 Program ini dirancang untuk mempermudah pencatatan transaksi dalam bisnis kecil atau keperluan pribadi dengan pendekatan berbasis terminal (CLI).
